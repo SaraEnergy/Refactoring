@@ -8,7 +8,7 @@ public class Movie {
         title = newtitle;
         priceCode = newpriceCode;
     }
-    public int getPriceCode() {
+    public int getPriceCodeREF() {
         return priceCode;
     }
     public void setPriceCode(int arg) {
