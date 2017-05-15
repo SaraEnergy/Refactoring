@@ -43,8 +43,8 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Rental1.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Fowler/src/Rental1.java">
+      <file leaf-file-name="Rental.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Fowler/src/Rental.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="18" lean-forward="false" selection-start-line="0" selection-start-column="18" selection-end-line="0" selection-end-column="18" />
@@ -136,7 +136,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Rental1.java" />
+              <option name="myItemId" value="Rental.java" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -567,15 +567,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1494838747933</updated>
-      <workItem from="1494838755429" duration="731000" />
+      <workItem from="1494838755429" duration="803000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="731000" />
+    <option name="totallyTimeSpent" value="803000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="260" y="40" width="1400" height="1000" extended-state="1" />
+    <frame x="260" y="40" width="1400" height="1000" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -643,7 +643,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Fowler/src/Rental1.java">
+    <entry file="file://$PROJECT_DIR$/Fowler/src/Rental.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="18" lean-forward="false" selection-start-line="0" selection-start-column="18" selection-end-line="0" selection-end-column="18" />
