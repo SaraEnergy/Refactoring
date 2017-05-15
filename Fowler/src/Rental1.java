@@ -1,7 +1,7 @@
-class RentalChangeBlabla {
+class RentalChange {
     private Movie movie;
     private int daysRented;
-    public RentalChangeBlabla(Movie newmovie, int newdaysRented) {
+    public RentalChange(Movie newmovie, int newdaysRented) {
         movie = newmovie;
         daysRented = newdaysRented;
     }
